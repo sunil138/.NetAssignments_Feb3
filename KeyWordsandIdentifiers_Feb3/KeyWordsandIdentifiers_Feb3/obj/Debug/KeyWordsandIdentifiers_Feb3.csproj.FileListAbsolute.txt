@@ -1,0 +1,8 @@
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\bin\Debug\KeyWordsandIdentifiers_Feb3.exe.config
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\bin\Debug\KeyWordsandIdentifiers_Feb3.exe
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\bin\Debug\KeyWordsandIdentifiers_Feb3.pdb
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\obj\Debug\KeyWordsandIdentifiers_Feb3.csproj.AssemblyReference.cache
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\obj\Debug\KeyWordsandIdentifiers_Feb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\obj\Debug\KeyWordsandIdentifiers_Feb3.csproj.CoreCompileInputs.cache
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\obj\Debug\KeyWordsandIdentifiers_Feb3.exe
+C:\Users\ST293YY\source\repos\KeyWordsandIdentifiers_Feb3\KeyWordsandIdentifiers_Feb3\obj\Debug\KeyWordsandIdentifiers_Feb3.pdb
